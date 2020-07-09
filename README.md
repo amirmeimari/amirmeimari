@@ -1,6 +1,6 @@
 ### 😎 YOOOOO I'm a FrontEnd Web Developer 🚬
 
-<img src="https://github.com/amirmeimari/amirmeimari/blob/master/pish.gif" width="80%" style="margin: 0 auto; display: block; border-radius: 10px; margin-top: 30px" />
+<img src="https://github.com/amirmeimari/amirmeimari/blob/master/pish.gif" width="40%"/>
 
 
 <!--
