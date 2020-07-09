@@ -1,4 +1,7 @@
-### Hi there 👋
+### 😎 YOOOOO I'm a FrontEnd Web Developer 🚬
+
+<img src="pish.gif" width="80%" style="margin: 0 auto; display: block; border-radius: 10px; margin-top: 30px" />
+
 
 <!--
 **amirmeimari/amirmeimari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
