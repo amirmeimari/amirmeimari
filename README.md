@@ -1,4 +1,4 @@
-### 😎 YOOOOO I'm a FrontEnd Web Developer 🚬
+### 😎 YOOOOO I'm a FrontEnd Web Developer
 
 <img src="https://github.com/amirmeimari/amirmeimari/blob/master/pish.gif" width="40%"/>
 
